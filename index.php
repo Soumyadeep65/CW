@@ -8,7 +8,7 @@ $cur2 = $_POST['cur2'];
 
 if($cur1=="USD" AND $cur2=="INR"){
 echo "<center><b>Your Converted Amount is:</b><br></center>";
-echo "<center>" . $amount* 67.83 . $cur2 . "</center>";
+echo "<center>" . $amount* 76.54 . $cur2 . "</center>";
 }
 if($cur1=="INR" AND $cur2=="USD"){
 echo "<center><b>Your Converted Amount is:</b><br></center>";
