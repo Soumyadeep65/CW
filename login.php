@@ -100,6 +100,8 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
     </style>
 </head>
 <body>
+    <h2><center>USD - INR current Conversion rate</center></h2>
+        <h2><center>1 USD = 76.54 INR</center></h2>
     <div class="wrapper">
         <h2>Login</h2>
         <p>Please fill in your credentials to login.</p>
